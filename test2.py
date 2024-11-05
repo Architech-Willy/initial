@@ -1,4 +1,1 @@
-def abc():
-	print("abc")
-
-abc()
+print("hello")
